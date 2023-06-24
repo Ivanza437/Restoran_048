@@ -12,7 +12,7 @@ halaman utama menampilkan empty state jika data kosong
 
 
 
-halaman Kedua mengisidata
+Halaman Kedua mengisi data
 
 
 <img src="https://github.com/Ivanza437/Restoran_048/blob/main/ScreenShoot/Restoran%202.PNG" width="300" height="600">

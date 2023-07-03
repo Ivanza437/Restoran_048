@@ -1,7 +1,7 @@
 # Restoran_048
- Tugas Kuliah 
+ Tugas Kuliah Part 2
 
-halaman utama menampilkan empty state jika data kosong
+Halaman Utama Defaut Kosong Katran belum diisi data disini admin bisa memasukan data lewat icon (+) "Tambah" Pada Pojok Kanan bawah
 
 
 

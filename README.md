@@ -15,4 +15,4 @@ halaman utama menampilkan empty state jika data kosong
 Halaman kedua
 
 
-<img src="https://github.com/Ivanza437/Restoran_048/blob/main/ScreenShoot/Restoran%202.PNG" width="300" height="600">
+<img src="https://github.com/Ivanza437/Restoran_048_2/blob/main/SS/Halaman%20Utama%20(kosong).png" width="300" height="600">
